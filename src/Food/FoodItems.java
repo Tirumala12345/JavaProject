@@ -3,10 +3,10 @@ package Food;
 public class FoodItems  {
     public String rice;
     public String curry;
-    public FoodItems(){
+    /*public FoodItems(){
         rice="Biryani";
         curry="Chicken";
-    }
+    }*/
 
     @Override
     public String toString() {

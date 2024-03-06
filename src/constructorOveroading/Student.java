@@ -13,7 +13,6 @@ public class Student {
         this.dob=dob;
         this.mobileNo=mobileNo;
         this.address=address;
-
     }
 
     @Override

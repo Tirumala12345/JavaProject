@@ -5,10 +5,6 @@ public class MovieTicket {
     private String theatreName;
     private String showTime;
 
-
-
-
-
     public MovieTicket(String movieName,String theatreName,String showTime) {
         this.movieName = movieName;
         this.theatreName = theatreName;
