@@ -36,7 +36,7 @@ public class WhileLoopTest {
 
             cal = Calendar.getInstance();
             currentTime = cal.getTime();
-            
+
 
 
         }

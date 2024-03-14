@@ -24,19 +24,6 @@ public class TicketTest extends MovieTicket{
         }else {
             System.out.println("Login Failed");
         }
-
-
-//        TicketTest ticketTest=new TicketTest();
-//        MovieTicket movieTicket=new MovieTicket();
-//        Counterbooking counterbooking=new Counterbooking("Pokiri","Sandhya 70MM",
-//                "6:00 PM",4);
-//        OnlineBooking onlineBooking=new OnlineBooking();
-//        System.out.println(counterbooking);
-//
-//        counterbooking.displayTicket();
-//        counterbooking.displayTicket(200);
-//        onlineBooking.displayTicket();
-
     }
 
 }
